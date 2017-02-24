@@ -8945,80 +8945,79 @@ footer {
 #map {
   width: 100%;
   height: 200px;
-  margin-top: 100px;
 }
 
-/* line 141, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 140, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .navbar {
   min-height: 88px;
 }
 
 @media (min-width: 768px) {
-  /* line 145, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 144, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   #map {
     height: 400px;
   }
 
-  /* line 149, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 148, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default {
     border-color: rgba(255, 255, 255, 0.3);
     background-color: transparent;
   }
 
-  /* line 154, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 153, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default .navbar-header .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
   }
 
-  /* line 158, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 157, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
     color: #fff;
   }
 
-  /* line 163, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 162, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
     color: rgba(255, 255, 255, 0.7);
   }
 
-  /* line 168, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 167, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
     color: #fff;
   }
 
-  /* line 173, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 172, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default.affix {
     border-color: rgba(34, 34, 34, 0.05);
     background-color: #fff;
   }
 
-  /* line 178, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 177, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default.affix .navbar-header .navbar-brand {
     font-size: 14px;
     color: #f05f40;
   }
 
-  /* line 183, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 182, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
     color: #eb3812;
   }
 
-  /* line 188, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 187, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
     color: #222;
   }
 
-  /* line 193, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 192, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
     color: #f05f40;
   }
 }
-/* line 199, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 198, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 header {
   position: relative;
   width: 100%;
@@ -9033,7 +9032,7 @@ header {
   -o-background-size: cover;
 }
 
-/* line 213, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 212, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 header .header-content {
   position: relative;
   width: 100%;
@@ -9041,7 +9040,7 @@ header .header-content {
   text-align: center;
 }
 
-/* line 220, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 219, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 header .header-content .header-content-inner h1 {
   margin-top: 0;
   margin-bottom: 0;
@@ -9049,12 +9048,12 @@ header .header-content .header-content-inner h1 {
   font-weight: 700;
 }
 
-/* line 227, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 226, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
 
-/* line 231, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 230, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 header .header-content .header-content-inner p {
   margin-bottom: 50px;
   font-size: 16px;
@@ -9063,12 +9062,12 @@ header .header-content .header-content-inner p {
 }
 
 @media (min-width: 768px) {
-  /* line 239, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 238, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   header {
     min-height: 100%;
   }
 
-  /* line 243, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 242, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   header .header-content {
     position: absolute;
     top: 50%;
@@ -9078,14 +9077,14 @@ header .header-content .header-content-inner p {
     transform: translateY(-50%);
   }
 
-  /* line 252, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 251, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   header .header-content .header-content-inner {
     margin-right: auto;
     margin-left: auto;
     max-width: 1000px;
   }
 
-  /* line 258, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 257, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   header .header-content .header-content-inner p {
     margin-right: auto;
     margin-left: auto;
@@ -9093,29 +9092,29 @@ header .header-content .header-content-inner p {
     font-size: 18px;
   }
 }
-/* line 266, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 265, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .section-heading {
   margin-top: 0;
 }
 
-/* line 270, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 269, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .service-box {
   margin: 50px auto 0;
   max-width: 400px;
 }
 
 @media (min-width: 992px) {
-  /* line 276, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 275, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .service-box {
     margin: 20px auto 0;
   }
 }
-/* line 281, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 280, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .service-box p {
   margin-bottom: 0;
 }
 
-/* line 285, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 284, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box {
   display: block;
   position: relative;
@@ -9123,7 +9122,7 @@ header .header-content .header-content-inner p {
   max-width: 650px;
 }
 
-/* line 292, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 291, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box .portfolio-box-caption {
   display: block;
   position: absolute;
@@ -9139,7 +9138,7 @@ header .header-content .header-content-inner p {
   transition: all .35s;
 }
 
-/* line 307, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 306, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
   position: absolute;
   top: 50%;
@@ -9148,58 +9147,58 @@ header .header-content .header-content-inner p {
   transform: translateY(-50%);
 }
 
-/* line 315, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 314, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   padding: 0 15px;
   font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-/* line 321, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 320, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
 }
 
-/* line 327, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 326, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   font-size: 18px;
 }
 
-/* line 331, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 330, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
 
 @media (min-width: 768px) {
-  /* line 336, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 335, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 16px;
   }
 
-  /* line 340, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+  /* line 339, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     font-size: 22px;
   }
 }
-/* line 345, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 344, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .call-to-action h2 {
   margin: 0 auto 20px;
 }
 
-/* line 349, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 348, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .text-primary {
   color: #f05f40;
 }
 
-/* line 353, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 352, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .no-gutter > [class*=col-] {
   padding-right: 0;
   padding-left: 0;
 }
 
-/* line 358, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 357, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-default {
   border-color: #fff;
   color: #222;
@@ -9209,7 +9208,7 @@ header .header-content .header-content-inner p {
   transition: all .35s;
 }
 
-/* line 367, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 366, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-default:hover,
 .btn-default:focus,
 .btn-default.focus,
@@ -9221,14 +9220,14 @@ header .header-content .header-content-inner p {
   background-color: #f2f2f2;
 }
 
-/* line 378, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 377, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
   background-image: none;
 }
 
-/* line 384, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 383, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-default.disabled,
 .btn-default[disabled],
 fieldset[disabled] .btn-default,
@@ -9251,13 +9250,13 @@ fieldset[disabled] .btn-default.active {
   background-color: #fff;
 }
 
-/* line 406, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 405, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-default .badge {
   color: #fff;
   background-color: #222;
 }
 
-/* line 411, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 410, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-primary {
   border-color: #f05f40;
   color: #fff;
@@ -9267,7 +9266,7 @@ fieldset[disabled] .btn-default.active {
   transition: all .35s;
 }
 
-/* line 420, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 419, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
@@ -9279,14 +9278,14 @@ fieldset[disabled] .btn-default.active {
   background-color: #ee4b28;
 }
 
-/* line 431, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 430, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   background-image: none;
 }
 
-/* line 437, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 436, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-primary.disabled,
 .btn-primary[disabled],
 fieldset[disabled] .btn-primary,
@@ -9309,13 +9308,13 @@ fieldset[disabled] .btn-primary.active {
   background-color: #f05f40;
 }
 
-/* line 459, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 458, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-primary .badge {
   color: #f05f40;
   background-color: #fff;
 }
 
-/* line 464, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 463, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn {
   border: 0;
   border-radius: 300px;
@@ -9324,38 +9323,38 @@ fieldset[disabled] .btn-primary.active {
   font-weight: 700;
 }
 
-/* line 472, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 471, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 .btn-xl {
   padding: 15px 30px;
 }
 
-/* line 476, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 475, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 ::-moz-selection {
   text-shadow: none;
   color: #fff;
   background: #222;
 }
 
-/* line 482, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 481, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 ::selection {
   text-shadow: none;
   color: #fff;
   background: #222;
 }
 
-/* line 488, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 487, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 img::selection {
   color: #fff;
   background: 0 0;
 }
 
-/* line 493, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 492, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 img::-moz-selection {
   color: #fff;
   background: 0 0;
 }
 
-/* line 498, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
+/* line 497, /home/restot/Documents/JOB/develop/ecc/app/assets/stylesheets/creative/creative.css.scss */
 body {
   webkit-tap-highlight-color: #222;
 }
