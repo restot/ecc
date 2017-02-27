@@ -52,7 +52,28 @@ p {
 }
 
 .bg-primary {
+    padding-top: 50px;
+    padding-bottom: 50px;
     background-color: #f05f40;
+}
+.services {
+padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+#services{
+padding-top: 0px;
+}
+
+.contact {
+background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.portfolio {
+padding-top: 25px;
 }
 
 .bg-dark {
@@ -194,6 +215,22 @@ min-height: 88px;
     }
 }
 
+.fixed-bg {
+    background-image: asset-data-url("creative/header_new.jpg");
+    width: 100%;
+    min-height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  position: relative;
+}
+
+
 header {
     position: relative;
     width: 100%;
@@ -202,6 +239,9 @@ header {
     color: #fff;
     background-image: asset-data-url("creative/header_new.jpg");
     background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
